@@ -6,7 +6,9 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
+import java.util.Date;
 import java.util.List;
+import java.util.UUID;
 
 @Service
 public class EbankService {
@@ -25,6 +27,8 @@ public class EbankService {
     }
 
     public BankAccount save(BankAccount bankAccount) {
+        bankAccount.setId(UUID.randomUUID().toString());
+        bankAccount.setCreatedAt(new Date());
         return bankAccountRepository.save(bankAccount);
     }
 }
