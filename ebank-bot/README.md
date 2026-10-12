@@ -13,3 +13,10 @@ connexion du chatbot avec customer-service via mcp
 
 system prompt
 ![img_4.png](img_4.png)
+
+connexion du chatbot avec ebank-service via mcp
+![img_5.png](img_5.png)
+find by id
+![img_6.png](img_6.png)
+save
+![img_7.png](img_7.png)
