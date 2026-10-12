@@ -8,5 +8,8 @@ test swagger
 memory for the bot
 ![img_2.png](img_2.png)
 
-connection du chatbot avec customer-service via mcp
+connexion du chatbot avec customer-service via mcp
 ![img_3.png](img_3.png)
+
+system prompt
+![img_4.png](img_4.png)
