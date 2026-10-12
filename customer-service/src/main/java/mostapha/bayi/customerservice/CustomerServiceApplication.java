@@ -20,11 +20,11 @@ public class CustomerServiceApplication {
 	CommandLineRunner commandLineRunner(CustomerService customerService) {
 		return args -> {
 
-			List<String> names = List.of("Halima","Mohamed", "Imane");
+			List<String> names = List.of("mostapha","Mohamed", "Imane");
 			names.forEach(name -> {
 				customerService.saveCustomer(Customer.builder()
 						.name(name)
-						.email(name+"@halima.com")
+						.email(name+"@mostapha.com")
 						.build());
 			});
 		};
