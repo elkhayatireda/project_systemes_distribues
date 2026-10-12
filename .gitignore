@@ -29,5 +29,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+### VS Code ###s
 .vscode/
+
+# Ignore les fichiers .env dans tous les microservices
+.env
