@@ -1,6 +1,6 @@
-package mostapha.bayi.ebankservice.entities;
+package halima.idouaksim.ebankservice.entities;
 
-import mostapha.bayi.ebankservice.model.Customer;
+import halima.idouaksim.ebankservice.model.Customer;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;

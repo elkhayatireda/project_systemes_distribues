@@ -1,8 +1,8 @@
-package mostapha.bayi.ebankservice;
+package halima.idouaksim.ebankservice;
 
-import mostapha.bayi.ebankservice.entities.BankAccount;
-import mostapha.bayi.ebankservice.repository.BankAccountRepository;
-import mostapha.bayi.ebankservice.services.EbankService;
+import halima.idouaksim.ebankservice.entities.BankAccount;
+import halima.idouaksim.ebankservice.repository.BankAccountRepository;
+import halima.idouaksim.ebankservice.services.EbankService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package mostapha.bayi.ebankmsapp;
+package halima.idouaksim.ebankmsapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package mostapha.bayi.ebankservice.repository;
+package halima.idouaksim.ebankservice.repository;
 
-import mostapha.bayi.ebankservice.entities.BankAccount;
+import halima.idouaksim.ebankservice.entities.BankAccount;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

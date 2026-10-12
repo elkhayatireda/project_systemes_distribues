@@ -1,9 +1,9 @@
-package mostapha.bayi.ebankservice.services;
+package halima.idouaksim.ebankservice.services;
 
-import mostapha.bayi.ebankservice.entities.BankAccount;
-import mostapha.bayi.ebankservice.feign.CustomerRestClient;
-import mostapha.bayi.ebankservice.model.Customer;
-import mostapha.bayi.ebankservice.repository.BankAccountRepository;
+import halima.idouaksim.ebankservice.entities.BankAccount;
+import halima.idouaksim.ebankservice.feign.CustomerRestClient;
+import halima.idouaksim.ebankservice.model.Customer;
+import halima.idouaksim.ebankservice.repository.BankAccountRepository;
 import org.springframework.ai.mcp.annotation.McpTool;
 import org.springframework.ai.mcp.annotation.McpToolParam;
 import org.springframework.stereotype.Service;

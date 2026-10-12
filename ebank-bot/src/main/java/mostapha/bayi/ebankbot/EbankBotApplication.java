@@ -1,4 +1,4 @@
-package mostapha.bayi.ebankbot;
+package halima.idouaksim.ebankbot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

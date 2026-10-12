@@ -1,4 +1,4 @@
-package mostapha.bayi.ebankservice.model;
+package halima.idouaksim.ebankservice.model;
 
 import lombok.Getter;
 import lombok.*;

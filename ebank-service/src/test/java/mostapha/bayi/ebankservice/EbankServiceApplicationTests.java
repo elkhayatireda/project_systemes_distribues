@@ -1,4 +1,4 @@
-package mostapha.bayi.ebankservice;
+package halima.idouaksim.ebankservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

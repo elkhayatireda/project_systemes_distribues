@@ -1,7 +1,7 @@
-package mostapha.bayi.ebankservice.controllers;
+package halima.idouaksim.ebankservice.controllers;
 
-import mostapha.bayi.ebankservice.entities.BankAccount;
-import mostapha.bayi.ebankservice.services.EbankService;
+import halima.idouaksim.ebankservice.entities.BankAccount;
+import halima.idouaksim.ebankservice.services.EbankService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
