@@ -8,7 +8,7 @@
 		<version>4.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>mostapha.bayi</groupId>
+	<groupId>reda.elkhayati</groupId>
 	<artifactId>ebank-ms-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ebank-ms-app</name>
